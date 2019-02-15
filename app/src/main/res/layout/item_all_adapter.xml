@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="1dp"
+    android:orientation="vertical"
+    android:padding="1dp">
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/all_adapter_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/all_adapter_img_back" />
+
+    <CheckBox
+        android:id="@+id/all_adapter_checkBox"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/check_box_back"
+        android:button="@null" />
+</RelativeLayout>

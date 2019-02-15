@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">图片上传</string>
+
+    <string name="upString">材料上传</string>
+    <string name="upTip">请将材料原件拍照上传,建议在WIFI环境下使用,每次最多可以上传9张图片,多于9张请分次上传</string>
+</resources>

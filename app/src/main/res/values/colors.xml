@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="redDark">#971E28</color>
+
+    <color name="titleDivider">#e2e1e1</color>
+    <color name="imageBack">#e2e1e1</color>
+
+
+    <color name="blue">#0000ff</color><!--蓝色 -->
+    <color name="dateColor">#666</color><!--蓝色 -->
+    <color name="black">#575656</color><!--蓝色 -->
+    <color name="allAdapterImgInitBack">#F3F1F1</color>
+    <color name="upCount">#F30000</color>
+
+    <color name="filTypeBack">#F0EFEF</color>
+
+</resources>

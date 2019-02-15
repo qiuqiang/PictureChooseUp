@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageDelete">
+        <attr name="deleteImgWidth" format="integer" />
+        <attr name="deleteImgHeight" format="integer" />
+        <attr name="imgWidth" format="integer" />
+        <attr name="imgHeight" format="integer" />
+    </declare-styleable>
+</resources>
